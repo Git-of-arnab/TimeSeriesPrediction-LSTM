@@ -1,0 +1,17 @@
+,Severity_Major,Severity_Minor,Severity_Warning,Probable Cause_NetConfEventSubscriptionFailed,Probable Cause_PMFileNotificationMissing,Probable Cause_cpuCyclesLimitExceeded,Probable Cause_fileTransferFailure,Probable Cause_inputOutputDeviceError,Probable Cause_linkFailure,Probable Cause_nodeReboot,Probable Cause_notInTimeWindow,Probable Cause_partialResyncProblem,Probable Cause_performanceDegraded,Probable Cause_resyncFailed,Probable Cause_scheduledResyncFailed,Probable Cause_softwareError,Probable Cause_thresholdCrossed,Alarm Name_cpiAttachWithSGWreselection,Alarm Name_cpiFailuresOverSGs,Alarm Name_cpiGTPcResponseTO_S11,Alarm Name_cpiHSSauthFailures,Alarm Name_cpiS1MMEconnFailures,Alarm Name_cpiServiceRequestFailures,Alarm Name_cpiTauFailures,Alarm Name_cpiUEauthFailures,Alarm Name_degradedResource,Alarm Name_externalLinkDown,Alarm Name_mmeDnsError,Alarm Name_mscDnsError,Alarm Name_pathAvailability,Alarm Name_pgwDnsError,Alarm Name_sgsnDnsError,Alarm Name_taiFqdnError,Alarm Name_threadsExhausted,Alarm Type_configurationAlarm,Alarm Type_equipmentAlarm,Alarm Type_processingErrorAlarm,Alarm Type_qualityOfServiceAlarm,unit_IPDS,unit_NECC,unit_billa,unit_cmmInst,unit_mmeNR10-1,unit_mmeS11-7,unit_mmeS6ad-11,attach_fail_predicted
+120,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+20,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1
+113,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+141,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+49,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1
+121,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+91,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+85,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+98,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+6,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+149,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+21,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+144,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0,1
+23,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+127,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+96,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
